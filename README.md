@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**justusbunsi/justusbunsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Ansible and Go
+- 👯 I’m looking to collaborate on Gitea, Jenkins and Kubernetes related stuff
+- 🤔 I’m looking for help with Java
+- 💬 Ask me about Kubernetes, Jenkins, Gitea
+- 📫 How to reach me: [@JustusBunsi](https://twitter.com/JustusBunsi) on twitter
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm kinda trying to avoid GitHub in favor of [Gitea](https://github.com/go-gitea/gitea).
 
-Here are some ideas to get you started:
+Other places where you can find me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Codeberg](https://codeberg.org/justusbunsi)
+- [Gitea.com](https://gitea.com/justusbunsi)
