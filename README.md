@@ -16,5 +16,5 @@ Other places where you can find me:
 Maintaining:
 
 - [Gitea Sonarqube Bot](https://codeberg.org/justusbunsi/gitea-sonarqube-bot)
-- [Gitea Jenkins plugin](https://gitea.com/gitea/helm-chart)
+- [Gitea Helm Chart](https://gitea.com/gitea/helm-chart)
 - [Jenkins Gitea Plugin](https://github.com/jenkinsci/gitea-plugin)
