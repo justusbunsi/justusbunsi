@@ -18,3 +18,7 @@ Maintaining:
 - [Gitea Sonarqube Bot](https://codeberg.org/justusbunsi/gitea-sonarqube-bot)
 - [Gitea Helm Chart](https://gitea.com/gitea/helm-chart)
 - [Jenkins Gitea Plugin](https://github.com/jenkinsci/gitea-plugin)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=justusbunsi&show_icons=true&theme=slateorange&count_private=true)
